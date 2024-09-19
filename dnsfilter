@@ -1753,3 +1753,5 @@
 *.qectra.com*
 *.eectra.com*
 *.3ectra.com*
+java.com/*
+oracle.com/downloads/
